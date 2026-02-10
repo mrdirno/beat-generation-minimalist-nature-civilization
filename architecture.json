@@ -1,0 +1,160 @@
+{
+  "book_id": "beat_generation_minimalist_nature_civilization",
+  "title": "The River's Cold Muscle",
+  "tagline": "A man seeking silence in the wilderness finds a wounded stranger, and the violent world he fled comes crashing back in.",
+  "target_words": 70000,
+  "actual_words": 66126,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Implacable Witness of Nature",
+    "The Violence of Transaction",
+    "Sanctuary as an Active Choice",
+    "The Burden of a Single Act of Mercy"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The River",
+      "words": 2750
+    },
+    {
+      "ch": 2,
+      "title": "The Wound",
+      "words": 2750
+    },
+    {
+      "ch": 3,
+      "title": "The Stranger",
+      "words": 2750
+    },
+    {
+      "ch": 4,
+      "title": "Questions Without Answers",
+      "words": 2750
+    },
+    {
+      "ch": 5,
+      "title": "The Low Voice",
+      "words": 2750
+    },
+    {
+      "ch": 6,
+      "title": "Tracks in the Mud",
+      "words": 2750
+    },
+    {
+      "ch": 7,
+      "title": "Yarrow and Silence",
+      "words": 2750
+    },
+    {
+      "ch": 8,
+      "title": "Confession by the Fire",
+      "words": 2750
+    },
+    {
+      "ch": 9,
+      "title": "The World at the Door",
+      "words": 2750
+    },
+    {
+      "ch": 10,
+      "title": "A Debt Called In",
+      "words": 2750
+    },
+    {
+      "ch": 11,
+      "title": "The Choice of the Heron",
+      "words": 2750
+    },
+    {
+      "ch": 12,
+      "title": "Blood on the Stones",
+      "words": 2750
+    },
+    {
+      "ch": 13,
+      "title": "Flight Upriver",
+      "words": 2750
+    },
+    {
+      "ch": 14,
+      "title": "The High Ledge",
+      "words": 2750
+    },
+    {
+      "ch": 15,
+      "title": "What the River Takes",
+      "words": 2750
+    },
+    {
+      "ch": 16,
+      "title": "The Empty Pack",
+      "words": 2750
+    },
+    {
+      "ch": 17,
+      "title": "Return to the Clearing",
+      "words": 2750
+    },
+    {
+      "ch": 18,
+      "title": "The Watcher in the Woods",
+      "words": 2750
+    },
+    {
+      "ch": 19,
+      "title": "A Different Kind of Fire",
+      "words": 2750
+    },
+    {
+      "ch": 20,
+      "title": "The Transaction Completed",
+      "words": 2750
+    },
+    {
+      "ch": 21,
+      "title": "Ashes and Moss",
+      "words": 2750
+    },
+    {
+      "ch": 22,
+      "title": "The Float",
+      "words": 2750
+    },
+    {
+      "ch": 23,
+      "title": "Walking On",
+      "words": 2750
+    },
+    {
+      "ch": 24,
+      "title": "The Sound It Makes",
+      "words": 2750
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from the perspective of the river, observing the events of the novel unfold along its banks.",
+      "Create a 'found document'—a page from Leo's journal before he came to the cabin, or a police report filed about the incident on the logging road.",
+      "Write a dialogue-only scene between the 'low voice' and an associate, discussing the fallout of the failed transaction and the missing man.",
+      "Imagine a sequel chapter set five years later, where a different seeker finds the abandoned cabin. What traces of Leo and the stranger remain?"
+    ],
+    "technical": [
+      "Build an interactive map of the novel's valley, keyed to chapter events, with ambient soundscapes (river, wind, truck engine) triggered by navigation.",
+      "Create a generative text tool that writes minimalist, nature-focused prose in the style of the novel's opening, using a limited vocabulary and specific rhythmic constraints."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Jack Kerouac",
+      "Annie Dillard",
+      "Cormac McCarthy",
+      "Henry David Thoreau"
+    ]
+  },
+  "cover_prompt": "A lone man in worn flannel stands over a wounded stranger in a shallow, rushing river, his face a mask of conflicted mercy against the indifferent flow, set within a vast, mist-shrouded wilderness of pine and cold granite at dawn. The scene is rendered with the stark, existential minimalism and textured, ink-wash aesthetic of a beat generation sketchbook, evoking the raw, unforgiving poetry of nature and silent human drama. The composition is a tight, centered book cover frame with a low, dramatic angle that makes the river's current feel immense and the figures isolated, capturing the pivotal moment of decision. The lighting is a cold, diffuse dawn glow with a palette of slate grays, deep pine greens, and the bruised purple of fading night, punctuated only by the stark white of the stranger's shirt and the muted ochre of the man's jacket. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
